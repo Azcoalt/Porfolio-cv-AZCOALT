@@ -1,0 +1,234 @@
+{
+    "basics": {
+      "name": "David Torres Perez",
+      "label": "Student of Information and Communication Technologies",
+      "image": "/public/imgportafolio.jpg",
+      "email": "DAVIDTORRES_WORK@outlook.com",
+      "phone": "+52 2226836947",
+      "url": "https://johndoe.com",
+      "summary": "I am a student of Information and Communication Technologies Engineering in Puebla, specializing in web development and starting in robotics. I have worked independently in frontend development, building strong technical skills. I consider myself responsible, friendly, committed, empathetic, and self-taught. I am seeking my first experience as a web developer in a team environment to enhance my collaborative skills.",
+      "location": {
+        "address": "2712 Broadway St",
+        "postalCode": "CA 94115",
+        "city": "Mexico",
+        "countryCode": "MX",
+        "region": "Puebla"
+      },
+      "profiles": [{
+        "network": "Instagram",
+        "username": "AZCOALTP",
+        "url": "https://www.instagram.com/azcoaltp?igsh=ZmQ1bHV2ZzExd2c="
+      },{
+        "network": "Discord",
+        "username": "AZCOALT",
+        "url": "https://discord.com/invite/efP26hWW"
+      },{
+        "network": "GitHub",
+        "username": "AZCOALT",
+        "url": "https://github.com/Azcoalt"
+      },
+      {
+        "network": "Linkedln",
+        "username": "David Torres Perezs",
+        "url": "https://www.linkedin.com/in/david-torres-p%C3%A9rez-72a8aa310/"
+      }
+    ]
+    },
+    "work": [{
+      "name": "Company",
+      "position": "Graphic Designer Assistant",
+      "url": "https://company.com",
+      "startDate": "2019-03-01",
+      "endDate": "2019-06-01",
+      "summary": "I assisted a graphic designer as an apprentice for web design, primarily editing images using Photoshop.",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Instituto Tecnologico de Puebla",
+      "url": "https://www.puebla.tecnm.mx/",
+      "area": "Engineering",
+      "studyType": "Academical",
+      "startDate": "2020-08-15",
+      "endDate": "2025-06-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Universidad Tecnologica de Pereira (Colombia)",
+      "url": "https://www.utp.edu.co/",
+      "area": "Engineering",
+      "studyType": "Academic Exchange",
+      "startDate": "2024-01-31",
+      "endDate": "2024-06-08",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Centro de Estudios Tecnológicos Industrial y de Servicios No. 104",
+      "url": "https://cetis104.mx/",
+      "area": "Technical",
+      "studyType": "Technical High School",
+      "startDate": "2016-08-13",
+      "endDate": "2019-07-25",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Jr",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },{
+      "name": "React",
+      "level": "Jr",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "MY SQL",
+      "level": "Jr",
+      "keywords": [
+        "SQL"
+      ]
+    },
+    {
+      "name": "Arduino",
+      "level": "Jr",
+      "keywords": [
+        "C++"
+      ]
+    },
+    {
+      "name": "Firebase",
+      "level": "Jr",
+      "keywords": [
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Tailwindcss",
+      "level": "Jr",
+      "keywords": [
+        "CSS"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Game Basic",
+      "startDate": "05-11-2022",
+      "endDate": "02-12-2022",
+      "isActive": "flase",
+      "description": "This project calculates the price of a cd sale and the points of the olympic games in archery This project is made with HTML, CSS, JavaScript and Bootstrap",
+      "highlights": [
+        "I learned HTM, CSS and JAVASCRIPT"
+      ],
+      "url": "https://github.com/Azcoalt/my-project-JS",
+      "gitHub":"https://github.com/Azcoalt/my-project-JS"
+    },
+    {
+      "name": "Computadoras DB",
+      "startDate": "05-11-2022",
+      "endDate": "02-12-2022",
+      "isActive": "flase",
+      "description": "Administrator of computer using to database in realtime and it makes use of the theory of CRUD",
+      "highlights": [
+        "I learned HTM, CSS, JAVASCRIPT  and stared whith node"
+      ],
+      "url": "https://github.com/Azcoalt/computadoras-db",
+      "gitHub":"https://github.com/Azcoalt/computadoras-db"
+    },
+    {
+      "name": "CLOK",
+      "startDate": "05-11-2022",
+      "endDate": "02-12-2022",
+      "isActive": "flase",
+      "description": "Clok whit HTML, CSS and JAVASCRIPT only for practis",
+      "highlights": [
+        "Practis HTM, CSS, JAVASCRIPT"
+      ],
+      "url": "https://github.com/Azcoalt/clok",
+      "gitHub":"https://github.com/Azcoalt/clok"
+    },
+    {
+      "name": "Gif-expertApp",
+      "startDate": "05-11-2022",
+      "endDate": "02-12-2022",
+      "isActive": "flase",
+      "description": "I stared to learned React and this the first project whit ",
+      "highlights": [
+        "Practis HTM, CSS, JAVASCRIPT and REACT"
+      ],
+      "url": "https://azcoalt.github.io/react-gif-expert/",
+      "gitHub":"https://github.com/Azcoalt/react-gif-expert"
+    },
+    {
+      "name": "Shop of the ITP",
+      "startDate": "05-11-2022",
+      "endDate": "02-12-2022",
+      "isActive": "True",
+      "description": "I stared this projectfor practis and develelopmen for the ITP; the project continues in development",
+      "highlights": [
+        "Practis HTM, TAILWINDCSS, JAVASCRIPT and FIREBASE"
+      ],
+      "url": "https://eventos-itp.netlify.app/",
+      "gitHub":"https://github.com/Azcoalt/Events-itp"
+    }]
+  }

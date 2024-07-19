@@ -1,0 +1,43 @@
+---
+
+---
+<div class="container">
+    <button class="mobile-only" id="mobile-only">Inprimir</button>
+</div>
+
+<style>
+    .container{
+        text-align: center;
+    }
+
+    .mobile-only{
+        margin: 0 auto;
+        background-color: #ffcc00;
+        color: #000;
+        border: 3px solid #000;
+        padding: 10px 20px;
+        font-size: 16px;
+        text-transform: uppercase;
+        box-shadow: 5px 5px 0 #000;
+        cursor: pointer;
+        transition: all 0.2s;
+    }
+
+    .mobile-only:hover{
+        background-color: #ff9900;
+        box-shadow: 3px 3px 0 #000;
+    }
+
+    .mobile-only:active{
+        box-shadow: 1px 1px 0 #000;
+        transform: translate(2px, 2px);
+    }
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () =>{
+        document.getElementById('mobile-only').addEventListener('click', () =>{
+            window.print();
+        });
+    })
+</script>
